@@ -104,7 +104,7 @@ function onFinish() {
     users.push({
       id: users.length + 1,
       name: name.value,
-      lastName: lastName.value,
+      lastname: lastName.value,
       age: age.value,
       phone: phone.value,
     });
